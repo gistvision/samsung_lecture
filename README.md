@@ -1,2 +1,2 @@
 # samsung_lecture
-Jupyter notebooks for samsun lecture
+Jupyter notebooks for samsung lecture
