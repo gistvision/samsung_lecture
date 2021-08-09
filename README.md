@@ -1,2 +1,1 @@
-# samsung_lecture
-Jupyter notebooks for samsung lecture
+# Placeholder repo for pretrained weights and code snippet
